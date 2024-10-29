@@ -40,10 +40,17 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochajrdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="155" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rochajrdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="155" alt="stats graph"  />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochajrdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="155" alt="languages graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rochajrdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="155" alt="stats graph" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 ## About Me
 
 - 🤔 Exploring new technologies and developing software solutions.
