@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQF7IA61hkKwDg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718398291574?e=1735776000&v=beta&t=80tnX82PzPEXqOZWCSFBZ66uJdSwh5-sxo7NU-FL4hw"  />
+<img align="right" height="130" src="https://media.licdn.com/dms/image/v2/D4D03AQF7IA61hkKwDg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718398291574?e=1735776000&v=beta&t=80tnX82PzPEXqOZWCSFBZ66uJdSwh5-sxo7NU-FL4hw"  />
 
 ###
 
@@ -40,17 +40,18 @@
 ###
 
 <div align="left">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochajrdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="155" alt="languages graph" />
       </td>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=rochajrdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="155" alt="stats graph" />
       </td>
     </tr>
   </table>
 </div>
+
 ## About Me
 
 - 🤔 Exploring new technologies and developing software solutions.
