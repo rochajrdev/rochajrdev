@@ -67,8 +67,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
-![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=dot-net)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 
 **DevOps**
 
