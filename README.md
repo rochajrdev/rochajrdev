@@ -30,7 +30,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dotnet logo"  />
 </div>
 
 ###
@@ -53,7 +55,7 @@
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Mathematics at the Federal Institute of Sergipe.
 - 🎓 Studying Systems Analysis and Development at Descomplica Digital College.
-- 🌱 Learning more about software development and data analysis.
+- 🌱 Currently studying more about C# and improving my development skills.
 
 ## My Skills
 
@@ -65,7 +67,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=dot-net)
 
 **DevOps**
 
