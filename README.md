@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rochajrdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="155" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rochajrdev&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rochajrdev&area=true&hide_border=true&hide_title=true&theme=dracula" height="150" alt="activity-graph graph"  />
-</div>
+</div> 
 
 ###
 ## About Me
