@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Adailson Rocha</h2>
 
-###
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQF7IA61hkKwDg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718398291574?e=1735776000&v=beta&t=80tnX82PzPEXqOZWCSFBZ66uJdSwh5-sxo7NU-FL4hw"  />
 
 ###
 
