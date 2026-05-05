@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bb67941a-42d8-4db9-9bdf-170e421a3813" width="200" />
-  <h2>With great code comes great responsibility 🕸️ | Adailson Rocha</h2>
-  <p><strong>Full-Stack Developer</strong> specializing in modern web architectures and containerized applications.</p>
+  <h2>Com grandes códigos vêm grandes responsabilidades 🕸️ | Adailson Rocha</h2>
+  <p><strong>Desenvolvedor Full-Stack</strong> especializado em arquiteturas web modernas e aplicações conteinerizadas.</p>
 </div>
 
 ###
@@ -20,16 +20,16 @@
 
 ###
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-- 🚀 Currently building **Full-Stack applications** using **Next.js**, **NestJS**, and **Python (Flask)**.
-- 🐳 Experienced with **Docker & Docker Compose** for containerizing complex microservices and orchestrating full-stack deployments.
-- 🧪 Focused on software quality with automated testing using **Vitest** and **Playwright**.
-- 🎨 Passionate about delivering premium UI/UX, responsive designs, and accessible digital experiences (WCAG AA).
-- 🎓 Graduated in Mathematics from the Federal Institute of Sergipe & studying Systems Analysis and Development at Descomplica Digital College.
-- 💡 Always eager to tackle complex architectural challenges and modernize legacy systems.
+- 🏥 **Sistemas Críticos (Mission-Critical)**: Desenvolvimento e manutenção de tecnologias de alta disponibilidade para o **Setor de Saúde Pública**, atuando na engenharia de arquiteturas robustas onde falhas não são uma opção aceitável.
+- 🕷️ **Web Scraping & Data Mining**: Especialista em automação de navegadores em larga escala, focado em superar sistemas avançados de detecção de bots (Stealth Plugins, rotação de User-Agent) e manipulação assíncrona de DOM para extrair dados estruturados de marketplaces e e-commerces complexos.
+- 📊 **Engenharia de Dados (BI)**: Responsável pela criação de pipelines automatizados que transformam dados brutos da web em Inteligência de Negócio (Business Intelligence) acionável.
+- 🚀 **Arquiteturas Full-Stack**: Construção de aplicações escaláveis utilizando **Next.js**, **NestJS** e **Python**, totalmente conteinerizadas com **Docker & Docker Compose**.
+- 🧪 **Qualidade de Software**: Foco total em confiabilidade e performance ponta-a-ponta através de testes automatizados com **Vitest** e **Playwright**.
+- 🎓 Formado em Matemática pelo Instituto Federal de Sergipe e graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica Digital.
 
-## 🛠️ My Skills
+## 🛠️ Minhas Habilidades
 
 <table width="100%">
   <tr>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>🗄️ Databases</h3>
+      <h3>🗄️ Banco de Dados</h3>
     </td>
     <td align="left">
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>🧰 Infra & Tools</h3>
+      <h3>🧰 Infra & Ferramentas</h3>
     </td>
     <td align="left">
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -93,8 +93,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochajrdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rochajrdev&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochajrdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rochajrdev&locale=pt_BR&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
 </div>
 
 <br>
