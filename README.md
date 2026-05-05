@@ -1,11 +1,8 @@
-<h2 align="left">Hi 👋! My name is Adailson Rocha</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="125" src="![image](https://github.com/user-attachments/assets/bb67941a-42d8-4db9-9bdf-170e421a3813)
-"  />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bb67941a-42d8-4db9-9bdf-170e421a3813" width="200" />
+  <h2>With great code comes great responsibility 🕸️ | Adailson Rocha</h2>
+  <p><strong>Full-Stack Developer</strong> specializing in modern web architectures and containerized applications.</p>
+</div>
 
 ###
 
@@ -13,7 +10,7 @@
   <a href="https://www.instagram.com/rocha.dev_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/adailson-rocha" target="_blank">
+  <a href="https://www.linkedin.com/in/adailson-rocha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@rocha.dev" target="_blank">
@@ -23,61 +20,87 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+## 👨‍💻 About Me
+
+- 🚀 Currently building **Full-Stack applications** using **Next.js**, **NestJS**, and **Python (Flask)**.
+- 🐳 Experienced with **Docker & Docker Compose** for containerizing complex microservices and orchestrating full-stack deployments.
+- 🧪 Focused on software quality with automated testing using **Vitest** and **Playwright**.
+- 🎨 Passionate about delivering premium UI/UX, responsive designs, and accessible digital experiences (WCAG AA).
+- 🎓 Graduated in Mathematics from the Federal Institute of Sergipe & studying Systems Analysis and Development at Descomplica Digital College.
+- 💡 Always eager to tackle complex architectural challenges and modernize legacy systems.
+
+## 🛠️ My Skills
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🎨 Frontend</h3>
+    </td>
+    <td align="left" width="75%">
+      <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>⚙️ Backend</h3>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/-AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+      <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🗄️ Databases</h3>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/-DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+      <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🧰 Infra & Tools</h3>
+    </td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/-n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+      <img src="https://img.shields.io/badge/-RDM-000000?style=for-the-badge&logo=remotedesktopmanager&logoColor=white" alt="RDM" />
+      <img src="https://img.shields.io/badge/-RustDesk-2563EB?style=for-the-badge&logo=rustdesk&logoColor=white" alt="RustDesk" />
+      <img src="https://img.shields.io/badge/-Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+      <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochajrdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="155" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rochajrdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="155" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rochajrdev&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rochajrdev&area=true&hide_border=true&hide_title=true&theme=github-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rochajrdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rochajrdev&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
 </div>
 
-###
-## About Me
+<br>
 
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying Mathematics at the Federal Institute of Sergipe.
-- 🎓 Studying Systems Analysis and Development at Descomplica Digital College.
-- 🌱 Currently studying more about C# and improving my development skills.
-
-## My Skills
-
-
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rochajrdev&area=true&hide_border=true&hide_title=true&theme=github-dark" width="100%" alt="activity-graph graph"  />
+</div>
 
 <br/>
