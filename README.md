@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bb67941a-42d8-4db9-9bdf-170e421a3813" width="200" />
+  <img src="image.png" width="250" />
   <h2>Com grandes códigos vêm grandes responsabilidades 🕸️ | Adailson Rocha</h2>
   <p><strong>Desenvolvedor Full-Stack</strong> especializado em arquiteturas web modernas e aplicações conteinerizadas.</p>
 </div>
